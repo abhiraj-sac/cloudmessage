@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745911984722",
+    "project_id": "cloudmessage-d0b41",
+    "storage_bucket": "cloudmessage-d0b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745911984722:android:cc90d5177986d8349af58b",
+        "android_client_info": {
+          "package_name": "com.example.cloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745911984722-j0rd2fojpaads4josklqg72uacouqis6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1QzLGLo3HEb-B2Pn9o_Tn-SXt3fXf_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745911984722-j0rd2fojpaads4josklqg72uacouqis6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
